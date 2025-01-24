@@ -1,2 +1,2 @@
 # fedora-wizard
-Fast and Automatic Fedora Workstation Setup
+Quick and Automatic Fedora Workstation Setup for Developers
